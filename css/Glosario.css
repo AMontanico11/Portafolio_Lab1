@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.TITTLE_IMPORT{
+    width: 100%;
+    height: 90px;
+    background-color: #ff0004;
+    background-image: linear-gradient(180deg, #ff0004 0%, #ff6265 50%, #ff0004 100%);
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 20px;
+}
+section{
+    width: 1000px;
+    margin: 30px auto;
+    box-sizing: border-box;
+}
+.table{
+    border: solid black;
+}
+.Cuadro{
+    text-align: center;
+}
+/* ******PRIMERA SECCION********* */
+.TITTLE_IMPORT{
+    color: rgb(253, 253, 253);
+    font-size: 60px;
+    font-family: 'Dancing Script', cursive;
+    margin: 10px 0px 0px 0px;
+    text-align: center;
+}
+/* ***SEGUNDA SECCION*** */
+.TITULO_TABLA{
+    text-align: center;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(20, 180, 220);
+    font-family: 'Dancing Script', cursive;
+}
+
+.subtitulo{
+    font-size: 17px;
+    color:blue;
+}
+
+.tittle_1{
+    margin: 10px 0px 10px 0px;
+    color:rgb(255, 255, 255);
+    background-color: rgb(13, 192, 7);
+    list-style: none;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+    border-radius: 10px;
+}
+
+.tittle_2{
+    margin: 10px 0px 10px 0px;
+    color:white;
+    background-color: tomato;
+    list-style: none;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+    border-radius: 10px;
+}
+
+.tittle_3{
+    margin: 10px 0px 10px 0px;
+    color:white;
+    background-color: rgb(27, 145, 255);
+    list-style: none;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+    border-radius: 10px;
+}
+
+.tittle_4{
+    margin: 10px 0px 10px 0px;
+    color: white;
+    background-color: orangered;
+    list-style: none;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+    border-radius: 10px;
+}
+
+
+header{
+    width: 100%;
+    height: 60px;
+    padding: 10px 40px 0px 40px;
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    background-color: #f00000;
+    background-image: linear-gradient(62deg, #f00000 0%, #f78e8e 100%);
+
+}
+.LOGO{
+    color: blanchedalmond;
+}
+.nav{
+    width: 150px;
+    height: auto;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 10px;
+    margin-right: -1%;
+}
+.borde{
+    border: 2px solid #09F3EF;
+    border-radius: 10px;
+}
+.escuadra{
+    border: 2px solid #FC6700;
+    border-radius: 10px;
+}
+.Beto{
+    border: 2px solid #EFE516;
+    border-radius: 10px;
+}
+.mb{
+    border: 2px solid #2FEC00;
+    border-radius: 10px;
+}
+
+
+.Cuerpo1{
+    background-color: #444343;
+    color: white;
+    
+}
